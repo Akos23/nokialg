@@ -1,0 +1,4 @@
+2020.6.25   23:45:53    [DEBUG 1]    Source.cpp::out of bounds
+2020.6.25   23:45:53    [WARNING 2]    Source.cpp::out of bounds
+2020.6.25   23:45:53    [INFO 3]    Source.cpp::new text msg
+2020.6.25   23:45:53    [DEBUG 4]    Source.cpp::out of bounds

@@ -1,0 +1,4 @@
+2020.6.26   7:38:33    [DEBUG 1]    Source::here would be some log message
+2020.6.26   7:38:33    [WARNING 2]    Source::here would be some log message
+2020.6.26   7:38:33    [INFO 3]    Source::some other log msg
+2020.6.26   7:38:33    [DEBUG 4]    Source::here would be some log message

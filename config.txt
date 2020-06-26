@@ -1,0 +1,12 @@
+LogToConsole=TRUE
+ConsoleLogLevel=DEBUG
+LogToFile=TRUE
+LogRotation=FALSE
+MaxNumOfEntries=4
+MaxNumOfFiles=10
+FileLogLevel=DEBUG
+LogDirPath=C:\Users\dabas\source\repos\LoggingTest
+FileNamePattern=logtest
+ConsoleLogFormat={year}/{month}/{day} {hour}:{min}:{sec}  [{loglevel} {id}]  {source}::{msg}
+FileLogFormat={year}.{month}.{day}   {hour}:{min}:{sec}    [{loglevel} {id}]    {source}::{msg}
+
